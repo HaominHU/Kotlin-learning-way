@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
 
 
     val rebels = arrayListOf("Leiah", "Luke", "Han Solo", "Mon Mothma")
+    var rebyyy = arrayListOf<Int>()
     // .size .add, .indexOf() .remove
 
     //immutable
